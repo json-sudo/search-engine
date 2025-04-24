@@ -79,12 +79,6 @@ The project includes three types of tests:
    - Run with `yarn test:mutation`
    - Reports in `reports/mutation/`
 
-## Contributing
-
-1. Create a new branch for your feature
-2. Make your changes
-3. Submit a pull request
-
 ## License
 
 This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details. 
